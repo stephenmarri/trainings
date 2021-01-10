@@ -1,0 +1,12 @@
+.available span{
+    background: green;
+}
+
+.nearby span:after{
+    background: blue;
+    content: "nearby";
+}
+
+span{
+    background: red;
+}
