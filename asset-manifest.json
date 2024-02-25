@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//trainings/react/text-utils/static/css/main.49d9752b.css",
+    "main.js": "//trainings/react/text-utils/static/js/main.49bf4ab8.js",
+    "static/js/453.ae270511.chunk.js": "//trainings/react/text-utils/static/js/453.ae270511.chunk.js",
+    "static/media/logo.svg": "//trainings/react/text-utils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//trainings/react/text-utils/index.html",
+    "main.49d9752b.css.map": "//trainings/react/text-utils/static/css/main.49d9752b.css.map",
+    "main.49bf4ab8.js.map": "//trainings/react/text-utils/static/js/main.49bf4ab8.js.map",
+    "453.ae270511.chunk.js.map": "//trainings/react/text-utils/static/js/453.ae270511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d9752b.css",
+    "static/js/main.49bf4ab8.js"
+  ]
+}
