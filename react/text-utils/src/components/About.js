@@ -34,7 +34,7 @@ export default function About() {
             <div className="accordion-item" style={myStyle}>
                 <h2 className="accordion-header" id="headingOne" >
                 <button className="accordion-button " style={myStyle} type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Accordion Item #1
+                    Accordion Item  #1
                 </button>
                 </h2>
                 <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
